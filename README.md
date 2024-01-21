@@ -1,4 +1,7 @@
 # odin-recipes2
-Second try at setting this up
+Combine all knowledge learned up until this point
 
-Lets see if this worked. 
+Knowledge points
+HTML
+GIT
+GITHub
