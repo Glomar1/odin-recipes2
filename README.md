@@ -5,3 +5,4 @@ Knowledge points
 HTML
 GIT
 GITHub
+Git Push vs Git Commit apparently
